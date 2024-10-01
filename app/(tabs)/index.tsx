@@ -16,7 +16,7 @@ export default function ForYouPage() {
 function Suggested() {
     return (
         <View>
-            <Text>Suggested Page</Text>
+            <Text>Suggested Page - Niraj Jha</Text>
         </View>
     )
 }

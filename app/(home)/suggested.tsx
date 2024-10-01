@@ -4,7 +4,7 @@ export default function Suggested() {
     return (
         <View>
             <Text>
-                Suggested Page
+                Suggested Page - Niraj Jha
             </Text>
         </View>
     )
